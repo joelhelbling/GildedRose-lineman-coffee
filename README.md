@@ -1,6 +1,6 @@
-# The Gilded Lineman
+# The Gilded Depot
 
-In CoffeeScript!
+In CoffeeScript! With Lineman.js!
 
 ## How-to What?!  What is this?
 
